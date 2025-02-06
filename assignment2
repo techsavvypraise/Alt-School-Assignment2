@@ -99,10 +99,10 @@ footer nav a:hover {
       </p>
       <!-- Responsive image using picture -->
       <picture>
-        <source srcset="https://via.placeholder.com/1024x600?text=Large+Image" media="(min-width: 1024px)">
-        <source srcset="https://via.placeholder.com/768x450?text=Medium+Image" media="(min-width: 768px)">
-        <source srcset="https://via.placeholder.com/480x300?text=Small+Image" media="(max-width: 767px)">
-        <img src="https://via.placeholder.com/800x500?text=Fallback+Image" alt="Photo of Mr. Praise Sunday leading a seminar">
+        <source srcset="https://otiktpyazqotihijbwhm.supabase.co/storage/v1/object/public/images/e5d70be7-7239-46aa-8f6e-43d8bfd4189e-WhatsApp%20Image%202025-02-06%20at%2020.53.29_5cd4fd34.jpg" media="(min-width: 1024px)">
+        <source srcset="https://otiktpyazqotihijbwhm.supabase.co/storage/v1/object/public/images/e5d70be7-7239-46aa-8f6e-43d8bfd4189e-WhatsApp%20Image%202025-02-06%20at%2020.53.29_5cd4fd34.jpg" media="(min-width: 768px)">
+        <source srcset="https://otiktpyazqotihijbwhm.supabase.co/storage/v1/object/public/images/e5d70be7-7239-46aa-8f6e-43d8bfd4189e-WhatsApp%20Image%202025-02-06%20at%2020.53.29_5cd4fd34.jpg" media="(max-width: 767px)">
+        <img src="https://otiktpyazqotihijbwhm.supabase.co/storage/v1/object/public/images/e5d70be7-7239-46aa-8f6e-43d8bfd4189e-WhatsApp%20Image%202025-02-06%20at%2020.53.29_5cd4fd34.jpg" alt="Photo of Mr. Praise Sunday leading a seminar">
       </picture>
     </section>
 
